@@ -31,14 +31,12 @@
 - 시스템을 관리할 수 있는 사용자
 - 슈퍼유저가 사용하는 계정이 **root** 
 
-## `sudo` 명령어 사용
+# sudo 명령어 사용
+
+## `sudo` 명령어
 ```bash
 $ sudo <명령어>
 $ sudo apt install gcc   # gcc 컴파일러 설치
 $ sudo passwd root       # root 패스워드 설정
-
-## GNU 소프트웨어와 함께 배포
-- **GNU/Linux 운영체제**
-- 다양한 응용 프로그램 포함
 
 
