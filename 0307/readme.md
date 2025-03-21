@@ -11,4 +11,5 @@
 - **System V (시스템 V)**
 - **BSD (Berkeley Standard Distribution) 유닉스**
 - **리눅스 (Linux)**
+![image](https://github.com/user-attachments/assets/170903b4-024d-4711-9c2a-d173fb8073d9)
 
