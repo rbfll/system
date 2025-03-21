@@ -12,7 +12,7 @@
   $ which passwd  
   /bin/passwd
 
-  ## Wild Character
+## Wild Character
 - `*` : all
 - `?` : one
 
