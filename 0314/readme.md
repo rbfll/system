@@ -42,5 +42,5 @@
     위 명령어는 현재 디렉터리 내에 `new_directory`라는 이름의 디렉터리를 생성합니다.
 
 ## 실습
-    [스크린샷 2025-03-14 113829](https://github.com/user-attachments/assets/4c70049c-c34a-4d75-9bd0-33906cb0af85)
+![스크린샷 2025-03-14 113829](https://github.com/user-attachments/assets/1c2848ee-ad40-4435-b354-71e0fda697b7)
 
