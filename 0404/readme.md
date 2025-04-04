@@ -1,4 +1,6 @@
 - ## 0부터 255의 정수를 입력 받아 2진수로 출력하고, 1의 개수가 몇개인지 출력하며, 상위 8비트에서 왼쪽 4비트를 2진수로 출력하는 C프로그램
+![image](https://github.com/user-attachments/assets/d8ca8b5a-5daa-4752-bc98-d5ecc8b1993c)
+
 
 ```
 #include <stdio.h>
